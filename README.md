@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achref Rihani</h1>
-- 🔭 I’m currently working on **my Master's thesis project**
-
-- 🌱 I’m currently learning **new skills and courses**
+- 🔭 I’m currently working on **my Master's thesis project in machine learnning**
 
 - 👯 I’m looking to collaborate on **Machine learning and data science projects**
 
