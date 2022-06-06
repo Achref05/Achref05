@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **my current projects**
 
-- 📝 I regularly write articles on [machine learning in electronics](machine learning in electronics)
+- 📝 I regularly write articles on (machine learning in electronics)
 
 - 💬 Ask me about **anything**
 
